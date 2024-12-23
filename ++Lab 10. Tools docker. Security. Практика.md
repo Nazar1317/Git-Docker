@@ -1,4 +1,4 @@
-# +-Lab 10. Tools docker. Security. Практика.
+# ++Lab 10. Tools docker. Security. Практика.
 ## Hadolint
 Удобный линтер Dockerfile, который помогает создавать правильные Dockerfile.
 Скачаем image
